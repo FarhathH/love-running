@@ -41,7 +41,7 @@ header a{
 #menu{
     list-style-type: none;
     font-size: 110%;
-    margin: 4px;
+    letter-spacing: 4px;
 }
 
 /*General styling for h1*/
