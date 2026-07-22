@@ -37,6 +37,13 @@ header a{
     color:inherit;
 }
 
+/*Editing nav bar scale*/
+#menu{
+    list-style-type: none;
+    font-size: 110%;
+    margin: 4px;
+}
+
 /*General styling for h1*/
 h1{
     font-family: 'Oswald', sans-serif;
