@@ -1,5 +1,8 @@
 /*styling the layout and checking space*/
 
+/*Imported fonts from Google Fonts*/
+ @import url('https://fonts.googleapis.com/css2?family=Fruktur:ital@0;1&display=swap');
+
 /* asterisk wildcard selector is used to override default styles added by the browser*/
 *{
     padding: 0;
