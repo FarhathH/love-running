@@ -31,6 +31,7 @@ header{
 
 }
 
+/*Styling the nav bar specifically*/
 header a{
     text-decoration: none;
     color:inherit;
