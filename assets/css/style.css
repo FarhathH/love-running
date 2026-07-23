@@ -46,7 +46,7 @@ header a{
 
 /*Enable the nav bar items to be vertical*/
 #menu > li{
-    margin-bottom: 1em #3a3a3a;
+    margin-bottom: 1em;
 }
 
 .active{
