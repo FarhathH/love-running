@@ -72,12 +72,18 @@ nav{
 #nav-toggle:checked~nav{
     display: block;
 }
+#nav{
+    display: none;
+}
+.nav-toggle-label{
+    font-size: 2rem;
+}
 
 /*General styling for h1*/
 h1{
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 4px;
     color:#252525;
 }
 
