@@ -44,6 +44,15 @@ header a{
     letter-spacing: 4px;
 }
 
+/*Enable the nav bar items to be vertical*/
+#menu > li{
+    margin-bottom: 1em #3a3a3a;
+}
+
+.active{
+    border-bottom: 1px solid;
+}
+
 /*General styling for h1*/
 h1{
     font-family: 'Oswald', sans-serif;
