@@ -68,15 +68,24 @@ nav{
     top:100%;
 }
 
-/*Nav bar toggled*/
+/*Nav bar toggled for dropdown*/
 #nav-toggle:checked~nav{
     display: block;
 }
+
+/*Nav bar toggled for dropdown*/
 #nav{
     display: none;
 }
+
+/*Nav bar toggled for dropdown*/
 .nav-toggle-label{
     font-size: 2rem;
+}
+
+/*Hides the checkbox*/
+.hidden{
+    visibility: hidden;
 }
 
 /*General styling for h1*/
