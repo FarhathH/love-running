@@ -53,7 +53,7 @@ header a{
 
 /*Style for nav elements*/
 .active{
-    border-bottom: 1px solid;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /*Nav bar styles with dropdown menu*/
@@ -155,5 +155,12 @@ footer{
 
     main{
         margin-top: 79px;
+    }
+}
+
+/*Media queries for laptops and desktops*/
+@media screen and (min-width:992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
     }
 }
