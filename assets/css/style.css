@@ -120,7 +120,7 @@ main{
 
 /*Styling the cover-text*/
 #cover-text{
-    background-color: rgba(241, 109, 107);
+    background-color: rgba(241, 109, 107, .7);
 }
 
 /*Footer*/
