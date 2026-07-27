@@ -28,6 +28,11 @@ h1, h2, h3{
     color:#252525;
 }
 
+/*To hide headings that we want to keep*/
+.hidden-heading{
+    display: none;
+}
+
 /*Header*/
 header{
     background-color: #ffffff;
@@ -188,8 +193,6 @@ main{
     flex-basis: 200px;
     flex-grow: 1;
     border: 2px solid white;
-   
-
 }
 
 #times h3{
